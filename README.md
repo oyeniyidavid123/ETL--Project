@@ -12,7 +12,7 @@ The data source for both the Corona Virus and the Ebola Virus was extracted on K
 ## Transformation
 
 Data extracted were cleaned and merge to show the Date, total # of cases, and total # of deaths. Because we are looking at this from a global standpoint, we need to group everything by each date.
-Also, the web scarpping that was done on PubMed website was scrape only on articles that related to the Ebola virus and Corona virus.
+Also, the web scarpping that was done on PubMed website was only on articles related to the Ebola virus and Corona virus.
 
 ## Load
 
