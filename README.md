@@ -14,10 +14,11 @@ The data source for both the Corona Virus and the Ebola Virus was extracted on K
 ![image](https://user-images.githubusercontent.com/57304123/90667918-18150a00-e204-11ea-8c51-62fbeca535df.png)
 
 ## Transformation
-![image](https://user-images.githubusercontent.com/57304123/90668189-878af980-e204-11ea-9715-2779ad1eeb02.png)
 
 Data extracted were cleaned and merge to show the Date, total # of cases, and total # of deaths. Because we are looking at this from a global standpoint, we need to group everything by each date.
 Also, the web scarpping that was done on PubMed website was only on articles related to the Ebola virus and Corona virus.
+
+![image](https://user-images.githubusercontent.com/57304123/90668189-878af980-e204-11ea-9715-2779ad1eeb02.png)
 
 ## Load
 
