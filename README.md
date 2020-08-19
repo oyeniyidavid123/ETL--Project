@@ -20,7 +20,7 @@ Also, the web scarpping that was done on PubMed website was only on articles rel
 
 ![image](https://user-images.githubusercontent.com/57304123/90668189-878af980-e204-11ea-9715-2779ad1eeb02.png)
 
-## Load
+## Loading
 
 We loaded the data into SQL database and joined the data on date, to compare the total number of confirm cases and total death
 
