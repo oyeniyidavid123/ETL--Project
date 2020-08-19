@@ -9,6 +9,8 @@ What we are looking to do is compare the amount of scientific research conducted
 
 The data source for both the Corona Virus and the Ebola Virus was extracted on Kaggle.They have updated CSV files where the resources were pulled from various sources such as WHO, CDC, NHC, DXY. Other source of data was from PubMed. 
 
+![image](https://user-images.githubusercontent.com/57304123/90667639-d2f0d800-e203-11ea-9e05-ad07df8b9789.png)
+
 ## Transformation
 
 Data extracted were cleaned and merge to show the Date, total # of cases, and total # of deaths. Because we are looking at this from a global standpoint, we need to group everything by each date.
